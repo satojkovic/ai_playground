@@ -1,2 +1,2 @@
-# runnable_tutorials
+# ai_playground
 
